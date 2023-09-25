@@ -1,3 +1,4 @@
+// use functions to print prime between a and b
 #include <iostream>
 using namespace std;
 
