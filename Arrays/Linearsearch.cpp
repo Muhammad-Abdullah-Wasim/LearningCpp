@@ -1,3 +1,4 @@
+/* Code the find the key placement in array through LinearSearch*/
 #include <iostream>
 
 using namespace std;
